@@ -1,8 +1,8 @@
-//======================================================
-// Gene Lam 
-// Professor: Michael Vulis 
-// CSC21000-E Assembly Language
-//=======================================================
+//============================================================================ <br />
+// Gene Lam <br />
+// Professor: Michael Vulis <br />
+// CSC21000-E Assembly Language <br />
+//============================================================================= <br />
 
 This x86 emulator is written in C++ and reads bytecode from COM files. 
 
